@@ -11,7 +11,7 @@ const AboutUsSection = () => {
       id: 1,
       name: "Sarah Mitchell",
       title: "CEO & Founder",
-      avatar: "image.png",
+      avatar: "https://media.discordapp.net/attachments/1404920478367350858/1433465502461853787/Kieron_Logo_Founder__CEO.png?ex=6910a7c8&is=690f5648&hm=568e7df9b762733f84881c869b36626b1cfc56a024197b5c48fcbac480ea9e50&=&format=webp&quality=lossless",
       shortBio: "Visionary leader with 10+ years in digital marketing",
       fullBio: "Sarah is the driving force behind Dispulse Agency, with over a decade of experience in digital marketing and brand strategy. She has helped launch over 200 successful campaigns and has been recognized as one of the top 40 under 40 marketing executives. Her passion for innovation and data-driven strategies has positioned Dispulse as a leader in the digital space.",
       achievements: [
@@ -26,7 +26,7 @@ const AboutUsSection = () => {
       id: 2,
       name: "Marcus Chen",
       title: "CTO & Co-Founder",
-      avatar: "image2.png",
+      avatar: "https://media.discordapp.net/attachments/1404920478367350858/1433465501279060191/Ted_Director_of_Operations.jpg?ex=6910a7c8&is=690f5648&hm=9437ba0021a5bbc1ae289c8acd0bc865841ddde23d00990dbad5d848f8ea69f&=&format=webp",
       shortBio: "Tech innovator specializing in AI-driven marketing solutions",
       fullBio: "Marcus brings cutting-edge technology to every campaign at Dispulse. With a background in AI and machine learning, he has developed proprietary algorithms that predict viral content with 89% accuracy. His technical expertise combined with marketing insight makes him invaluable in creating data-driven strategies that deliver exceptional results.",
       achievements: [
@@ -41,7 +41,7 @@ const AboutUsSection = () => {
       id: 3,
       name: "Elena Rodriguez",
       title: "Creative Director & Co-Founder",
-      avatar: "image3.png",
+      avatar: "https://media.discordapp.net/attachments/1404920478367350858/1433465501836906537/Fin_Logo_Founder__CEO.jpg?ex=6910a7c8&is=690f5648&hm=77a433f78164f7d98bb7073fded2997b629b40e97b158d3db1c3c0001dda963c&=&format=webp",
       shortBio: "Award-winning creative with a passion for viral storytelling",
       fullBio: "Elena is the creative genius behind Dispulse's most memorable campaigns. Her unique ability to blend storytelling with viral mechanics has earned her numerous industry awards. She has created content that has been viewed over 2 billion times across all platforms and has worked with A-list celebrities and Fortune 500 companies.",
       achievements: [
